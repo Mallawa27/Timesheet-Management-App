@@ -1,0 +1,213 @@
+{
+  "timesheets": [
+    {
+      "week": 1,
+      "date": "1–5 January, 2024",
+      "status": "COMPLETED",
+      "tasks": []
+    },
+    {
+      "week": 2,
+      "date": "8–12 January, 2024",
+      "status": "COMPLETED",
+      "tasks": []
+    },
+    {
+      "week": 3,
+      "date": "15–19 January, 2024",
+      "status": "INCOMPLETE",
+      "tasks": []
+    },
+    {
+      "week": 4,
+      "date": "22–26 January, 2024",
+      "status": "COMPLETED",
+      "tasks": []
+    },
+    {
+      "week": 5,
+      "date": "28 January–1 February, 2024",
+      "status": "MISSING",
+      "tasks": []
+    },
+    {
+      "id": "90a2",
+      "week": 6,
+      "date": "Jul 16, 2025",
+      "status": "INCOMPLETE",
+      "action": "View",
+      "tasks": [
+        {
+          "date": "Jul 16",
+          "tasks": [
+            "Development -  c vc"
+          ],
+          "hours": 1,
+          "project": "Project 1"
+        }
+      ]
+    },
+    {
+      "id": "7172",
+      "week": 7,
+      "date": "Jul 16, 2025",
+      "status": "INCOMPLETE",
+      "action": "View",
+      "tasks": [
+        {
+          "date": "Jul 16",
+          "tasks": [
+            "Development - bh"
+          ],
+          "hours": 1,
+          "project": "Project 1"
+        }
+      ]
+    }
+  ],
+  "entries": {
+    "1–5 January, 2024": [
+      {
+        "date": "Jan 1",
+        "tasks": [
+          "Homepage Development"
+        ],
+        "hours": 4,
+        "project": "Project Name"
+      },
+      {
+        "date": "Jan 2",
+        "tasks": [
+          "Homepage Development"
+        ],
+        "hours": 4,
+        "project": "Project Name"
+      }
+    ],
+    "8–12 January, 2024": [
+      {
+        "date": "Jan 8",
+        "tasks": [
+          "Homepage Development"
+        ],
+        "hours": 4,
+        "project": "Project Name"
+      },
+      {
+        "date": "Jan 9",
+        "tasks": [
+          "Homepage Development"
+        ],
+        "hours": 4,
+        "project": "Project Name"
+      }
+    ],
+    "15–19 January, 2024": [
+      {
+        "date": "Jan 15",
+        "tasks": [
+          "Homepage Development"
+        ],
+        "hours": 4,
+        "project": "Project Name"
+      },
+      {
+        "date": "Jan 16",
+        "tasks": [
+          "Homepage Development"
+        ],
+        "hours": 4,
+        "project": "Project Name"
+      }
+    ],
+    "22–26 January, 2024": [
+      {
+        "date": "Jan 22",
+        "tasks": [
+          "Homepage Development",
+          "Homepage Development"
+        ],
+        "hours": [
+          4,
+          4
+        ],
+        "project": "Project Name"
+      },
+      {
+        "date": "Jan 23",
+        "tasks": [
+          "Homepage Development",
+          "Homepage Development"
+        ],
+        "hours": [
+          4,
+          4
+        ],
+        "project": "Project Name"
+      },
+      {
+        "date": "Jan 24",
+        "tasks": [
+          "Homepage Development",
+          "Homepage Development",
+          "Homepage Development"
+        ],
+        "hours": [
+          4,
+          4,
+          4
+        ],
+        "project": "Project Name"
+      },
+      {
+        "date": "Jan 25",
+        "tasks": [
+          "Homepage Development",
+          "Homepage Development"
+        ],
+        "hours": [
+          4,
+          4
+        ],
+        "project": "Project Name"
+      },
+      {
+        "date": "Jan 26",
+        "tasks": [
+          "Homepage Development",
+          "Homepage Development"
+        ],
+        "hours": [
+          4,
+          4
+        ],
+        "project": "Project Name"
+      }
+    ],
+    "28 January–1 February, 2024": [
+      {
+        "date": "Jan 28",
+        "tasks": [
+          "Homepage Development"
+        ],
+        "hours": 6,
+        "project": "Project Name"
+      },
+      {
+        "date": "Jan 29",
+        "tasks": [
+          "Homepage Development"
+        ],
+        "hours": 4,
+        "project": "Project Name"
+      }
+    ]
+  },
+  "users": [
+    {
+      "email": "user@example.com",
+      "password": "password123",
+      "token": "dummy-token-123"
+    }
+  ]
+}
