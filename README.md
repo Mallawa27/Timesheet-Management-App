@@ -39,4 +39,4 @@ Error Handling: Basic error handling and loading states are implemented for API 
 Add New Task" Button:The functionality for the "+ Add new task" button on the ViewTimesheet page is currently a placeholder .
 
 Time Spent:
-Approximately: 31 Hours
+Approximately: 17 Hours
